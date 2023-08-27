@@ -1,0 +1,1522 @@
+[
+    {
+        "gender": "das",
+        "german": "Haus",
+        "english": "House"
+    },
+    {
+        "gender": "der",
+        "german": "Tisch",
+        "english": "Table"
+    },
+    {
+        "gender": "das",
+        "german": "Auto",
+        "english": "Car"
+    },
+    {
+        "gender": "der",
+        "german": "Hund",
+        "english": "Dog"
+    },
+    {
+        "gender": "die",
+        "german": "Katze",
+        "english": "Cat"
+    },
+    {
+        "gender": "das",
+        "german": "Buch",
+        "english": "Book"
+    },
+    {
+        "gender": "die",
+        "german": "Schule",
+        "english": "School"
+    },
+    {
+        "gender": "der",
+        "german": "Stuhl",
+        "english": "Chair"
+    },
+    {
+        "gender": "das",
+        "german": "Fenster",
+        "english": "Window"
+    },
+    {
+        "gender": "der",
+        "german": "Apfel",
+        "english": "Apple"
+    },
+    {
+        "gender": "der",
+        "german": "Kaffee",
+        "english": "Coffee"
+    },
+    {
+        "gender": "das",
+        "german": "Wasser",
+        "english": "Water"
+    },
+    {
+        "gender": "der",
+        "german": "Baum",
+        "english": "Tree"
+    },
+    {
+        "gender": "der",
+        "german": "Bruder",
+        "english": "Brother"
+    },
+    {
+        "gender": "die",
+        "german": "Schwester",
+        "english": "Sister"
+    },
+    {
+        "gender": "das",
+        "german": "Telefon",
+        "english": "Telephone"
+    },
+    {
+        "gender": "der",
+        "german": "Freund",
+        "english": "Friend"
+    },
+    {
+        "gender": "die",
+        "german": "Mutter",
+        "english": "Mother"
+    },
+    {
+        "gender": "der",
+        "german": "Vater",
+        "english": "Father"
+    },
+    {
+        "gender": "die",
+        "german": "Stadt",
+        "english": "City"
+    },
+    {
+        "gender": "der",
+        "german": "Buchstabe",
+        "english": "the letter"
+    },
+    {
+        "gender": "die",
+        "german": "Hausaufgaben",
+        "english": "the homework"
+    },
+    {
+        "gender": "die",
+        "german": "Fensterbank",
+        "english": "the windowsill"
+    },
+    {
+        "gender": "der",
+        "german": "Stift",
+        "english": "the pen"
+    },
+    {
+        "gender": "die",
+        "german": "Uhr",
+        "english": "the clock"
+    },
+    {
+        "gender": "die",
+        "german": "Tafel",
+        "english": "the blackboard"
+    },
+    {
+        "gender": "der",
+        "german": "Kugelschreiber",
+        "english": "the ballpoint pen"
+    },
+    {
+        "gender": "der",
+        "german": "Schüler",
+        "english": "the student"
+    },
+    {
+        "gender": "der",
+        "german": "Lehrer",
+        "english": "the teacher"
+    },
+    {
+        "gender": "der",
+        "german": "Bleistift",
+        "english": "the pencil"
+    },
+    {
+        "gender": "die",
+        "german": "Klasse",
+        "english": "the class"
+    },
+    {
+        "gender": "das",
+        "german": "Klassenzimmer",
+        "english": "the classroom"
+    },
+    {
+        "gender": "das",
+        "german": "Tafelbild",
+        "english": "the chalkboard drawing"
+    },
+    {
+        "gender": "der",
+        "german": "Schuleintritt",
+        "english": "the school enrollment"
+    },
+    {
+        "gender": "die",
+        "german": "Prüfung",
+        "english": "the exam"
+    },
+    {
+        "gender": "das",
+        "german": "Wörterbuch",
+        "english": "the dictionary"
+    },
+    {
+        "gender": "die",
+        "german": "Lampe",
+        "english": "the lamp"
+    },
+    {
+        "gender": "der",
+        "german": "Teller",
+        "english": "the plate"
+    },
+    {
+        "gender": "die",
+        "german": "Tasse",
+        "english": "the cup"
+    },
+    {
+        "gender": "der",
+        "german": "Kühlschrank",
+        "english": "the refrigerator"
+    },
+    {
+        "gender": "das",
+        "german": "Bett",
+        "english": "the bed"
+    },
+    {
+        "gender": "der",
+        "german": "Teppich",
+        "english": "the carpet"
+    },
+    {
+        "gender": "der",
+        "german": "Schrank",
+        "english": "the cabinet"
+    },
+    {
+        "gender": "der",
+        "german": "Spiegel",
+        "english": "the mirror"
+    },
+    {
+        "gender": "der",
+        "german": "Herd",
+        "english": "the stove"
+    },
+    {
+        "gender": "der",
+        "german": "Ofen",
+        "english": "the oven"
+    },
+    {
+        "gender": "das",
+        "german": "Sofa",
+        "english": "the sofa"
+    },
+    {
+        "gender": "der",
+        "german": "Fernseher",
+        "english": "the television"
+    },
+    {
+        "gender": "der",
+        "german": "Film",
+        "english": "the movie"
+    },
+    {
+        "gender": "das",
+        "german": "Bild",
+        "english": "the picture"
+    },
+    {
+        "gender": "der",
+        "german": "Regenschirm",
+        "english": "the umbrella"
+    },
+    {
+        "gender": "die",
+        "german": "Tasche",
+        "english": "the bag"
+    },
+    {
+        "gender": "die",
+        "german": "Kleidung",
+        "english": "the clothing"
+    },
+    {
+        "gender": "das",
+        "german": "Hemd",
+        "english": "the shirt"
+    },
+    {
+        "gender": "die",
+        "german": "Hose",
+        "english": "the pants"
+    },
+    {
+        "gender": "das",
+        "german": "Kleid",
+        "english": "the dress"
+    },
+    {
+        "gender": "die",
+        "german": "Blume",
+        "english": "the flower"
+    },
+    {
+        "gender": "der",
+        "german": "Garten",
+        "english": "the garden"
+    },
+    {
+        "gender": "der",
+        "german": "Wald",
+        "english": "the forest"
+    },
+    {
+        "gender": "der",
+        "german": "Fluss",
+        "english": "the river"
+    },
+    {
+        "gender": "der",
+        "german": "Berg",
+        "english": "the mountain"
+    },
+    {
+        "gender": "das",
+        "german": "Meer",
+        "english": "the sea"
+    },
+    {
+        "gender": "die",
+        "german": "Insel",
+        "english": "the island"
+    },
+    {
+        "gender": "die",
+        "german": "Brücke",
+        "english": "the bridge"
+    },
+    {
+        "gender": "der",
+        "german": "Turm",
+        "english": "the tower"
+    },
+    {
+        "gender": "das",
+        "german": "Schloss",
+        "english": "the castle"
+    },
+    {
+        "gender": "die",
+        "german": "Burg",
+        "english": "the fortress"
+    },
+    {
+        "gender": "die",
+        "german": "Kirche",
+        "english": "the church"
+    },
+    {
+        "gender": "das",
+        "german": "Rathaus",
+        "english": "the town hall"
+    },
+    {
+        "gender": "der",
+        "german": "Markt",
+        "english": "the market"
+    },
+    {
+        "gender": "der",
+        "german": "Hafen",
+        "english": "the harbor/port"
+    },
+    {
+        "gender": "der",
+        "german": "Bahnhof",
+        "english": "the train station"
+    },
+    {
+        "gender": "der",
+        "german": "Flughafen",
+        "english": "the airport"
+    },
+    {
+        "gender": "das",
+        "german": "Krankenhaus",
+        "english": "the hospital"
+    },
+    {
+        "gender": "die",
+        "german": "Bank",
+        "english": "the bench/bank"
+    },
+    {
+        "gender": "das",
+        "german": "Denkmal",
+        "english": "the monument"
+    },
+    {
+        "gender": "der",
+        "german": "Flugzeug",
+        "english": "the airplane"
+    },
+    {
+        "gender": "das",
+        "german": "Schiff",
+        "english": "the ship"
+    },
+    {
+        "gender": "die",
+        "german": "Sonne",
+        "english": "the sun"
+    },
+    {
+        "gender": "der",
+        "german": "Mond",
+        "english": "the moon"
+    },
+    {
+        "gender": "der",
+        "german": "Stern",
+        "english": "the star"
+    },
+    {
+        "gender": "die",
+        "german": "Wolke",
+        "english": "the cloud"
+    },
+    {
+        "gender": "der",
+        "german": "Wind",
+        "english": "the wind"
+    },
+    {
+        "gender": "der",
+        "german": "Schnee",
+        "english": "the snow"
+    },
+    {
+        "gender": "der",
+        "german": "Regen",
+        "english": "the rain"
+    },
+    {
+        "gender": "das",
+        "german": "Feuer",
+        "english": "the fire"
+    },
+    {
+        "gender": "das",
+        "german": "Tier",
+        "english": "the animal"
+    },
+    {
+        "gender": "die",
+        "german": "Vogel",
+        "english": "the bird"
+    },
+    {
+        "gender": "der",
+        "german": "Fisch",
+        "english": "the fish"
+    },
+    {
+        "gender": "die",
+        "german": "Maus",
+        "english": "the mouse"
+    },
+    {
+        "gender": "der",
+        "german": "Elefant",
+        "english": "the elephant"
+    },
+    {
+        "gender": "das",
+        "german": "Pferd",
+        "english": "the horse"
+    },
+    {
+        "gender": "der",
+        "german": "Affe",
+        "english": "the monkey"
+    },
+    {
+        "gender": "der",
+        "german": "Löwe",
+        "english": "the lion"
+    },
+    {
+        "gender": "die",
+        "german": "Schlange",
+        "english": "the snake"
+    },
+    {
+        "gender": "der",
+        "german": "Hase",
+        "english": "the rabbit"
+    },
+    {
+        "gender": "der",
+        "german": "Schuh",
+        "english": "the shoe"
+    },
+    {
+        "gender": "die",
+        "german": "Socke",
+        "english": "the sock"
+    },
+    {
+        "gender": "das",
+        "german": "Handtuch",
+        "english": "the towel"
+    },
+    {
+        "gender": "die",
+        "german": "Zahnbürste",
+        "english": "the toothbrush"
+    },
+    {
+        "gender": "die",
+        "german": "Zahnpasta",
+        "english": "the toothpaste"
+    },
+    {
+        "gender": "die",
+        "german": "Seife",
+        "english": "the soap"
+    },
+    {
+        "gender": "das",
+        "german": "Shampoo",
+        "english": "the shampoo"
+    },
+    {
+        "gender": "der",
+        "german": "Kamm",
+        "english": "the comb"
+    },
+    {
+        "gender": "die",
+        "german": "Bürste",
+        "english": "the brush"
+    },
+    {
+        "gender": "das",
+        "german": "Bad",
+        "english": "the bathroom"
+    },
+    {
+        "gender": "das",
+        "german": "Schlafzimmer",
+        "english": "the bedroom"
+    },
+    {
+        "gender": "das",
+        "german": "Wohnzimmer",
+        "english": "the living room"
+    },
+    {
+        "gender": "die",
+        "german": "Küche",
+        "english": "the kitchen"
+    },
+    {
+        "gender": "das",
+        "german": "Esszimmer",
+        "english": "the dining room"
+    },
+    {
+        "gender": "das",
+        "german": "Badezimmer",
+        "english": "the bathroom"
+    },
+    {
+        "gender": "das",
+        "german": "Stockwerk",
+        "english": "the floor/storey"
+    },
+    {
+        "gender": "der",
+        "german": "Balkon",
+        "english": "the balcony"
+    },
+    {
+        "gender": "die",
+        "german": "Terrasse",
+        "english": "the terrace"
+    },
+    {
+        "gender": "das",
+        "german": "Dach",
+        "english": "the roof"
+    },
+    {
+        "gender": "die",
+        "german": "Wand",
+        "english": "the wall"
+    },
+    {
+        "gender": "die",
+        "german": "Decke",
+        "english": "the ceiling"
+    },
+    {
+        "gender": "der",
+        "german": "Keller",
+        "english": "the basement"
+    },
+    {
+        "gender": "der",
+        "german": "Aufzug",
+        "english": "the elevator/lift"
+    },
+    {
+        "gender": "die",
+        "german": "Treppe",
+        "english": "the stairs"
+    },
+    {
+        "gender": "die",
+        "german": "Haustür",
+        "english": "the front door"
+    },
+    {
+        "gender": "das",
+        "german": "Tor",
+        "english": "the gate"
+    },
+    {
+        "gender": "die",
+        "german": "Garage",
+        "english": "the garage"
+    },
+    {
+        "gender": "die",
+        "german": "Waschmaschine",
+        "english": "the washing machine"
+    },
+    {
+        "gender": "der",
+        "german": "Trockner",
+        "english": "the dryer"
+    },
+    {
+        "gender": "das",
+        "german": "Bügeleisen",
+        "english": "the iron"
+    },
+    {
+        "gender": "die",
+        "german": "Fernbedienung",
+        "english": "the remote control"
+    },
+    {
+        "gender": "die",
+        "german": "Steckdose",
+        "english": "the electrical socket"
+    },
+    {
+        "gender": "der",
+        "german": "Staubsauger",
+        "english": "the vacuum cleaner"
+    },
+    {
+        "gender": "der",
+        "german": "Topf",
+        "english": "the pot"
+    },
+    {
+        "gender": "die",
+        "german": "Pfanne",
+        "english": "the pan"
+    },
+    {
+        "gender": "der",
+        "german": "Wasserkocher",
+        "english": "the kettle"
+    },
+    {
+        "gender": "der",
+        "german": "Kühlschrank",
+        "english": "the refrigerator"
+    },
+    {
+        "gender": "der",
+        "german": "Gefrierschrank",
+        "english": "the freezer"
+    },
+    {
+        "gender": "die",
+        "german": "Mikrowelle",
+        "english": "the microwave"
+    },
+    {
+        "gender": "die",
+        "german": "Gitarre",
+        "english": "the guitar"
+    },
+    {
+        "gender": "der",
+        "german": "Kleber",
+        "english": "the glue"
+    },
+    {
+        "gender": "der",
+        "german": "Rucksack",
+        "english": "the backpack"
+    },
+    {
+        "gender": "die",
+        "german": "Kette",
+        "english": "the necklace"
+    },
+    {
+        "gender": "das",
+        "german": "T-Shirt",
+        "english": "the T-shirt"
+    },
+    {
+        "gender": "der",
+        "german": "Bauch",
+        "english": "the stomach"
+    },
+    {
+        "gender": "der",
+        "german": "Löffel",
+        "english": "the spoon"
+    },
+    {
+        "gender": "die",
+        "german": "Leber",
+        "english": "the liver"
+    },
+    {
+        "gender": "der",
+        "german": "Umschlag",
+        "english": "the envelope"
+    },
+    {
+        "gender": "das",
+        "german": "WC",
+        "english": "the toilet"
+    },
+    {
+        "gender": "der",
+        "german": "Rock",
+        "english": "the skirt"
+    },
+    {
+        "gender": "die",
+        "german": "Verpackung",
+        "english": "the packaging"
+    },
+    {
+        "gender": "die",
+        "german": "Nadel",
+        "english": "the needle"
+    },
+    {
+        "gender": "die",
+        "german": "Milch",
+        "english": "the milk"
+    },
+    {
+        "gender": "die",
+        "german": "Ohr",
+        "english": "the ear"
+    },
+    {
+        "gender": "die",
+        "german": "Zuckerzange",
+        "english": "the sugar tongs"
+    },
+    {
+        "gender": "der",
+        "german": "Handschuh",
+        "english": "the glove"
+    },
+    {
+        "gender": "der",
+        "german": "Schnurrbart",
+        "english": "the mustache"
+    },
+    {
+        "gender": "das",
+        "german": "Waschbecken",
+        "english": "the sink"
+    },
+    {
+        "gender": "die",
+        "german": "Flasche",
+        "english": "the bottle"
+    },
+    {
+        "gender": "der",
+        "german": "Bart",
+        "english": "the beard"
+    },
+    {
+        "gender": "der",
+        "german": "Schlafanzug",
+        "english": "the pajamas"
+    },
+    {
+        "gender": "das",
+        "german": "Loch",
+        "english": "the hole"
+    },
+    {
+        "gender": "das",
+        "german": "Acryl",
+        "english": "the acrylic"
+    },
+    {
+        "gender": "der",
+        "german": "Aschenbecher",
+        "english": "the ashtray"
+    },
+    {
+        "gender": "die",
+        "german": "Kaffeemaschine",
+        "english": "the coffee machine"
+    },
+    {
+        "gender": "der",
+        "german": "Reißverschluss",
+        "english": "the zipper"
+    },
+    {
+        "gender": "das",
+        "german": "Nähzeug",
+        "english": "the sewing kit"
+    },
+    {
+        "gender": "das",
+        "german": "Salz",
+        "english": "the salt"
+    },
+    {
+        "gender": "der",
+        "german": "Stoff",
+        "english": "the cloth"
+    },
+    {
+        "gender": "der",
+        "german": "Schlüssel",
+        "english": "the key"
+    },
+    {
+        "gender": "die",
+        "german": "Kamera",
+        "english": "the camera"
+    },
+    {
+        "gender": "die",
+        "german": "Pause",
+        "english": "the break"
+    },
+    {
+        "gender": "das",
+        "german": "Glas",
+        "english": "the glass"
+    },
+    {
+        "gender": "der",
+        "german": "Brief",
+        "english": "the letter"
+    },
+    {
+        "gender": "der",
+        "german": "Knopf",
+        "english": "the button"
+    },
+    {
+        "gender": "die",
+        "german": "Kreide",
+        "english": "the chalk"
+    },
+    {
+        "gender": "die",
+        "german": "Serviette",
+        "english": "the napkin"
+    },
+    {
+        "gender": "der",
+        "german": "Stoff",
+        "english": "the fabric"
+    },
+    {
+        "gender": "der",
+        "german": "Student",
+        "english": "the student - male"
+    },
+    {
+        "gender": "der",
+        "german": "Schwamm",
+        "english": "the sponge"
+    },
+    {
+        "gender": "das",
+        "german": "Adverb",
+        "english": "the adverb"
+    },
+    {
+        "gender": "der",
+        "german": "Kopf",
+        "english": "the head"
+    },
+    {
+        "gender": "das",
+        "german": "Messer",
+        "english": "the knife"
+    },
+    {
+        "gender": "die",
+        "german": "Kerze",
+        "english": "the candle"
+    },
+    {
+        "gender": "die",
+        "german": "Karte",
+        "english": "the card"
+    },
+    {
+        "gender": "der",
+        "german": "Mund",
+        "english": "the mouth"
+    },
+    {
+        "gender": "der",
+        "german": "Wecker",
+        "english": "the alarm clock"
+    },
+    {
+        "gender": "der",
+        "german": "DVD-Player",
+        "english": "the DVD player"
+    },
+    {
+        "gender": "das",
+        "german": "Armband",
+        "english": "the bracelet"
+    },
+    {
+        "gender": "der",
+        "german": "Flaschenöffner",
+        "english": "the bottle opener"
+    },
+    {
+        "gender": "der",
+        "german": "Korkenzieher",
+        "english": "the corkscrew"
+    },
+    {
+        "gender": "das",
+        "german": "Herz",
+        "english": "the heart"
+    },
+    {
+        "gender": "der",
+        "german": "Reis",
+        "english": "the rice"
+    },
+    {
+        "gender": "der",
+        "german": "Stil",
+        "english": "the style"
+    },
+    {
+        "gender": "der",
+        "german": "Beutel",
+        "english": "the bag/pouch"
+    },
+    {
+        "gender": "die",
+        "german": "Nase",
+        "english": "the nose"
+    },
+    {
+        "gender": "der",
+        "german": "Radiergummi",
+        "english": "the eraser"
+    },
+    {
+        "gender": "die",
+        "german": "Kartoffel",
+        "english": "the potato"
+    },
+    {
+        "gender": "der",
+        "german": "Hut",
+        "english": "the hat"
+    },
+    {
+        "gender": "die",
+        "german": "Leine",
+        "english": "the leash"
+    },
+    {
+        "gender": "die",
+        "german": "Blut",
+        "english": "the blood"
+    },
+    {
+        "gender": "der",
+        "german": "Stich",
+        "english": "the stitch"
+    },
+    {
+        "gender": "die",
+        "german": "Leine",
+        "english": "the leash"
+    },
+    {
+        "gender": "das",
+        "german": "Feuerwerk",
+        "english": "the fireworks"
+    },
+    {
+        "gender": null,
+        "german": "toll",
+        "english": "great/fantastic"
+    },
+    {
+        "gender": "das",
+        "german": "Öl",
+        "english": "the oil"
+    },
+    {
+        "gender": null,
+        "german": "teuer",
+        "english": "expensive"
+    },
+    {
+        "gender": null,
+        "german": "alt",
+        "english": "old"
+    },
+    {
+        "gender": "das",
+        "german": "Bein",
+        "english": "the leg"
+    },
+    {
+        "gender": null,
+        "german": "wissen",
+        "english": "to know"
+    },
+    {
+        "gender": "die",
+        "german": "Hose",
+        "english": "the trousers/pants"
+    },
+    {
+        "gender": "die",
+        "german": "Karotte",
+        "english": "carrot"
+    },
+    {
+        "gender": "der",
+        "german": "Donner",
+        "english": "the thunder"
+    },
+    {
+        "gender": "der",
+        "german": "Karton",
+        "english": "the carton"
+    },
+    {
+        "gender": "die",
+        "german": "Konjugation",
+        "english": "the conjugation"
+    },
+    {
+        "gender": "die",
+        "german": "Schachtel",
+        "english": "the box"
+    },
+    {
+        "gender": null,
+        "german": "kennen",
+        "english": "to know"
+    },
+    {
+        "gender": null,
+        "german": "schwach",
+        "english": "weak"
+    },
+    {
+        "gender": "der",
+        "german": "Kuchen",
+        "english": "the cake"
+    },
+    {
+        "gender": null,
+        "german": "tragen",
+        "english": "to wear/to carry"
+    },
+    {
+        "gender": null,
+        "german": "dick",
+        "english": "thick/fat"
+    },
+    {
+        "gender": "die",
+        "german": "Platte",
+        "english": "the platter"
+    },
+    {
+        "gender": "die",
+        "german": "Sandalen",
+        "english": "the sandals"
+    },
+    {
+        "gender": "das",
+        "german": "Gehirn",
+        "english": "the brain"
+    },
+    {
+        "gender": null,
+        "german": "helfen",
+        "english": "to help"
+    },
+    {
+        "gender": "die",
+        "german": "Untertasse",
+        "english": "the saucer"
+    },
+    {
+        "gender": null,
+        "german": "wichtig",
+        "english": "important"
+    },
+    {
+        "gender": "die",
+        "german": "Niere",
+        "english": "the kidney"
+    },
+    {
+        "gender": "das",
+        "german": "Magazin",
+        "english": "the magazine"
+    },
+    {
+        "gender": "der",
+        "german": "Schnitt",
+        "english": "the cut"
+    },
+    {
+        "gender": "der",
+        "german": "Cousin",
+        "english": "male cousin"
+    },
+    {
+        "gender": "der",
+        "german": "Hund",
+        "english": "the dog"
+    },
+    {
+        "gender": "der",
+        "german": "Schmuck",
+        "english": "the jewelry"
+    },
+    {
+        "gender": null,
+        "german": "zuhören",
+        "english": "to listen"
+    },
+    {
+        "gender": "der",
+        "german": "Stuhl",
+        "english": "the chair"
+    },
+    {
+        "gender": "der",
+        "german": "Ballon",
+        "english": "the balloon"
+    },
+    {
+        "gender": "die",
+        "german": "Zähne",
+        "english": "the teeth"
+    },
+    {
+        "gender": null,
+        "german": "schön",
+        "english": "beautiful/nice"
+    },
+    {
+        "gender": "der",
+        "german": "Knoten",
+        "english": "the knot"
+    },
+    {
+        "gender": null,
+        "german": "klug",
+        "english": "smart/intelligent"
+    },
+    {
+        "gender": "das",
+        "german": "Tablett",
+        "english": "the tray"
+    },
+    {
+        "gender": "der",
+        "german": "Mülleimer",
+        "english": "the trash can"
+    },
+    {
+        "gender": "die",
+        "german": "Zeitschrift",
+        "english": "the magazine"
+    },
+    {
+        "gender": null,
+        "german": "groß",
+        "english": "big/tall"
+    },
+    {
+        "gender": "der",
+        "german": "Toaster",
+        "english": "the toaster"
+    },
+    {
+        "gender": "das",
+        "german": "Bier",
+        "english": "the beer"
+    },
+    {
+        "gender": null,
+        "german": "beginnen",
+        "english": "to begin"
+    },
+    {
+        "gender": null,
+        "german": "suchen",
+        "english": "to search/to look for"
+    },
+    {
+        "gender": "die",
+        "german": "Tomate",
+        "english": "the tomato"
+    },
+    {
+        "gender": "der",
+        "german": "Gürtel",
+        "english": "the belt"
+    },
+    {
+        "gender": "das",
+        "german": "Polyester",
+        "english": "the polyester"
+    },
+    {
+        "gender": null,
+        "german": "schnell",
+        "english": "fast"
+    },
+    {
+        "gender": null,
+        "german": "nehmen",
+        "english": "to take"
+    },
+    {
+        "gender": "die",
+        "german": "Bibliothek",
+        "english": "the library"
+    },
+    {
+        "gender": "das",
+        "german": "Verb",
+        "english": "the verb"
+    },
+    {
+        "gender": "der",
+        "german": "See",
+        "english": "the lake"
+    },
+    {
+        "gender": "das",
+        "german": "Haus",
+        "english": "the house"
+    },
+    {
+        "gender": "die",
+        "german": "Ohrringe",
+        "english": "the earrings"
+    },
+    {
+        "gender": "die",
+        "german": "Grammatik",
+        "english": "the grammar"
+    },
+    {
+        "gender": "das",
+        "german": "Universität",
+        "english": "the university"
+    },
+    {
+        "gender": null,
+        "german": "klar",
+        "english": "clear"
+    },
+    {
+        "gender": null,
+        "german": "leicht",
+        "english": "light/easy"
+    },
+    {
+        "gender": "die",
+        "german": "Krawatte",
+        "english": "the tie"
+    },
+    {
+        "gender": null,
+        "german": "besuchen",
+        "english": "to visit"
+    },
+    {
+        "gender": null,
+        "german": "warten",
+        "english": "to wait"
+    },
+    {
+        "gender": null,
+        "german": "verstehen",
+        "english": "to understand"
+    },
+    {
+        "gender": "die",
+        "german": "Butter",
+        "english": "the butter"
+    },
+    {
+        "gender": null,
+        "german": "gut",
+        "english": "good"
+    },
+    {
+        "gender": "die",
+        "german": "Schüssel",
+        "english": "the bowl"
+    },
+    {
+        "gender": "die",
+        "german": "Hand",
+        "english": "the hand"
+    },
+    {
+        "gender": null,
+        "german": "waschen",
+        "english": "to wash"
+    },
+    {
+        "gender": "die",
+        "german": "Schwester",
+        "english": "sister"
+    },
+    {
+        "gender": "die",
+        "german": "Deklination",
+        "english": "the declension"
+    },
+    {
+        "gender": "die",
+        "german": "Frucht",
+        "english": "the fruit"
+    },
+    {
+        "gender": "das",
+        "german": "Bügelbrett",
+        "english": "the ironing board"
+    },
+    {
+        "gender": "der",
+        "german": "Ring",
+        "english": "the ring"
+    },
+    {
+        "gender": null,
+        "german": "besser",
+        "english": "better"
+    },
+    {
+        "gender": "die",
+        "german": "Badewanne",
+        "english": "the bathtub"
+    },
+    {
+        "gender": "der",
+        "german": "Sonnenschirm",
+        "english": "the parasol"
+    },
+    {
+        "gender": null,
+        "german": "basteln",
+        "english": "to craft"
+    },
+    {
+        "gender": null,
+        "german": "sprechen",
+        "english": "to speak"
+    },
+    {
+        "gender": null,
+        "german": "sehen",
+        "english": "to see"
+    },
+    {
+        "gender": null,
+        "german": "traurig",
+        "english": "sad"
+    },
+    {
+        "gender": "die",
+        "german": "Wohnung",
+        "english": "the apartment"
+    },
+    {
+        "gender": "die",
+        "german": "Zwiebel",
+        "english": "the onion"
+    },
+    {
+        "gender": "der",
+        "german": "Anzug",
+        "english": "the suit"
+    },
+    {
+        "gender": "der",
+        "german": "Föhn",
+        "english": "the hairdryer"
+    },
+    {
+        "gender": "das",
+        "german": "Radio",
+        "english": "the radio"
+    },
+    {
+        "gender": "der",
+        "german": "Vater",
+        "english": "father"
+    },
+    {
+        "gender": "der",
+        "german": "Friseur",
+        "english": "the hairdresser"
+    },
+    {
+        "gender": "das",
+        "german": "Denim",
+        "english": "the denim"
+    },
+    {
+        "gender": "die",
+        "german": "Blase",
+        "english": "the bladder"
+    },
+    {
+        "gender": "das",
+        "german": "Essen",
+        "english": "the food"
+    },
+    {
+        "gender": "der",
+        "german": "Knochen",
+        "english": "the bone"
+    },
+    {
+        "gender": null,
+        "german": "modern",
+        "english": "modern"
+    },
+    {
+        "gender": "die",
+        "german": "Blumen",
+        "english": "the flowers"
+    },
+    {
+        "gender": null,
+        "german": "bringen",
+        "english": "to bring"
+    },
+    {
+        "gender": "der",
+        "german": "Becher",
+        "english": "the mug"
+    },
+    {
+        "gender": "der",
+        "german": "Badeanzug",
+        "english": "the swimsuit"
+    },
+    {
+        "gender": "der",
+        "german": "Etikett",
+        "english": "the label"
+    },
+    {
+        "gender": "der",
+        "german": "Onkel",
+        "english": "uncle"
+    },
+    {
+        "gender": null,
+        "german": "feiern",
+        "english": "to celebrate"
+    },
+    {
+        "gender": "das",
+        "german": "Adjektiv",
+        "english": "the adjective"
+    },
+    {
+        "gender": "die",
+        "german": "Sprache",
+        "english": "the language"
+    },
+    {
+        "gender": "das",
+        "german": "Papier",
+        "english": "the paper"
+    },
+    {
+        "gender": "die",
+        "german": "Schale",
+        "english": "the bowl"
+    },
+    {
+        "gender": "die",
+        "german": "Mutter",
+        "english": "mother"
+    },
+    {
+        "gender": "die",
+        "german": "Eltern",
+        "english": "parents"
+    }
+]
