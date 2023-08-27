@@ -3,25 +3,26 @@ Learn Geman vocab the easy way, let automation help!
 
 Welcome to the German Vocab Helper, your ultimate companion for mastering the German language. 🇩🇪 Whether you're a beginner or an advanced learner, this toolkit is designed to make your language learning journey thrilling, efficient, and effective.
 
-About the Tool
-The heart of the German Vocab Helper lies in its powerful scripts. Let's dive into the key features:
+About the Toolkit
+Unlock the potential of the German Vocab Helper and explore its versatile features that put you in control of your language learning:
 
 Del_duplicates.py 🧹
-Tired of sifting through duplicated words? Say no more! The Del_duplicates.py script comes to your rescue. It effortlessly cleans up your german_words_json.json and german_words_txt.txt files by removing duplicate entries. No more redundancy, just streamlined learning.
+Tired of seeing the same words over and over? The Del_duplicates.py script is your solution. It declutters your german_words_json.json and german_words_txt.txt files, eliminating duplicate entries. Clear the way for new vocabulary without redundancy.
 
-Get_new_words 🆕
-Learning a language is all about expanding your vocabulary. Our Get_new_words script is here to help. It fetches fresh, new words for you to learn every day. Discover them conveniently in both the new_words.txt and new_words.json formats. The choice is yours, and the opportunities to grow are endless.
+Get_new_words.py 📚
+Expand your linguistic horizons with the Get_new_words.py script. It provides you with a fresh batch of German words to learn where you choose the numbers. Explore those words in the user-friendly new_words.txt file or the structured new_words.json file, tailored for your convenience.
 
 Update_the_memorized.py 🧠
-Once you feel confident that you've absorbed the new words, it's time to make them a permanent part of your repertoire. The Update_the_memorized.py script takes the words from new_words.txt and adds them to learned_words.txt. Your progress is preserved, and you can always revisit your learned words for a quick refresher.
+Ready to cement your knowledge? The Update_the_memorized.py script transfers words from new_words.txt to learned_words.txt. Revisit your learned words for a quick review anytime you want to reinforce your memory.
 
 Manually_find_add_words.py ✍️
-We understand that language learning is personal. The Manually_find_add_words.py script empowers you to add words you already know to learned_words.txt. Your vocab journey is uniquely yours, and this feature ensures your accomplishments are accurately reflected.
+Language learning is personal. The Manually_find_add_words.py script empowers you to include words you already know in learned_words.txt. Tailor your vocabulary and maintain an accurate record of your achievements.
 
-JSON Format for Power and Precision
-Behind the scenes, all our .txt files have a counterpart in the powerful JSON format. This allows your computer to seamlessly interact with the data, making operations smoother and more efficient. While you can explore the contents, it's recommended not to edit these files unless you're familiar with the structure.
+Unveiling the Text Files
+These .txt files play a crucial role in your journey:
 
-A World of Opportunities
-Embark on this exhilarating journey with the German Vocab Helper. Your language skills will soar as you conquer words, eliminate duplicates, and enrich your vocabulary. Remember, each word you learn brings you one step closer to mastering the beauty of the German language.
+german_words_txt.txt: Your initial collection of German words in plain text format.
+new_words.txt: Daily additions of new German words for your learning.
+learned_words.txt: Your repository of mastered German words.
 
 Ready to begin? 🚀 Start by running the scripts and watch as your language abilities expand. Happy learning! 🌟📚🗣️
